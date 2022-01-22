@@ -1,6 +1,6 @@
 ### Hi there,  I'm Tomas Garrido    👋
 
-I am Back-end Developer who working with Django-python, SQL, Html and CSS.
+I am Back-end Developer who working with Django-python
 
 ## Contact  💬
 
