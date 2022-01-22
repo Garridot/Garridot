@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am Back-end Developer who working with Django-python, SQL, Html and CSS.
+
+In 2020, I started to learn
+
+## Contact 💬
+
 <!--
 **Garridot/Garridot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
