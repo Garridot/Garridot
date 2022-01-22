@@ -2,9 +2,6 @@
 
 I am Back-end Developer who working with Django-python, SQL, Html and CSS.
 
-My Portfolio:
-- <a href="https://www.linkedin.com/in/tomas-garrido/"  target="_blank">Linkedin 💼</a> 
-
 ## Contact  💬
 
 
