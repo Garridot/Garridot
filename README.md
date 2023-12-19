@@ -1,7 +1,7 @@
 <!-- Markdown approach -->
 ![](https://media.licdn.com/dms/image/D4D16AQHnRlfamQIevA/profile-displaybackgroundimage-shrink_350_1400/0/1683141901548?e=1689811200&v=beta&t=Y1r-gWATsJ8HVRhcH2AQ1dtmd-L2HzleeJhM5PYuFf8)
 # 💫 About Me:
-Hi there 👋<br>My name is Tomás Garrido and I am a programmer focused on backend development, API, and data manipulation. <br>For the last three years, I have been learning about web development through online courses, as well as self-taught.<br>Thanks to this, I have had the opportunity to develop projects that have strengthened my skills and knowledge.<br>I am excited to be able to work in a team so that I can share and improve my learned knowledge, help build projects and improve as a developer.
+Hi there 👋<br>My name is Tomás Garrido, and I am a backend developer with a focus on API and data manipulation using Python. Over the last three years, I have been learning about web development through online courses as well as self-teaching.<br>This has allowed me to develop various projects, which has strengthened my skills and knowledge as a back-end and front-end developer. I am eager to work with a team, share my knowledge, and improve my skills as a developer by collaborating on projects.
 
 
 ## 🌐 Socials:
