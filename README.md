@@ -1,5 +1,4 @@
-
-## 💫 Hi, I'm Tomas Garrido!
+# 💫 Hi, I'm Tomas Garrido!
 #### Backend Developer
 My name is Tomás Garrido, and I am a backend developer based in Argentina. My focus is on web development, API, and data manipulation using Python. Over the past three years, I have been learning about web development through online courses as well as self-teaching.<br> This has allowed me to develop various projects, which has strengthened my skills and knowledge as a back-end and front-end developer. I am eager to work with a team, share my knowledge, and collaborate on projects to improve my skills as a developer.
 
