@@ -5,10 +5,8 @@
 [![Github](https://camo.githubusercontent.com/2cbe5bd2692ed16ec7d0079d13f4c524967f28d3e95d333ccf0e4f69a1b680db/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d2532333234323932652e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465)](https://github.com/Garridot) 
 
 ### About Me
-💫 I am a backend Developer with three years of experience, having worked in backend development, API integration, and web scraping. 
-
-💫 I am also knowledgeable in front-end development, having worked on website layouts, responsive design, and API interactions.
-
+💫 I am a backend Developer with three years of experience, having worked in backend development, API integration, and web scraping.<br>
+💫 I am also knowledgeable in front-end development, having worked on website layouts, responsive design, and API interactions.<br>
 💫 Seeking challenging opportunities to contribute technical skills and creativity
 
 # 💻 Tech Stack
