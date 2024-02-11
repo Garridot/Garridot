@@ -30,7 +30,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Garridot&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## <p align="center">🏆 GitHub Trophies</p> 
+<p align="center">
 ![](https://github-profile-trophy.vercel.app/?username=Garridot&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Garridot&icon=0&color=5)](https://visitcount.itsvg.in)
