@@ -28,9 +28,12 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Garridot&theme=city_light&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Profile Trophy">
 </p>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Garridot&theme=city_light&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Garridot&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Garridot&theme=city_light&hide_border=false" alt="GitHub Streak Stats">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garridot&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Top Languages Stats">
+</p>
 
 ## <p align="center">🏆 GitHub Trophies</p> 
 <p align="center">
