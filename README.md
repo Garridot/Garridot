@@ -25,6 +25,10 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ## <p align="center">📊 GitHub Stats</p> 
+<div style="display: flex; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Garridot&theme=city_light&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Profile Trophy">
+</div>
+
 ![](https://github-readme-stats.vercel.app/api?username=Garridot&theme=city_light&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Garridot&theme=city_light&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Garridot&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
