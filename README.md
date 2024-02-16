@@ -12,7 +12,7 @@
 
 
 ## <p align="center">About Me</p> 
-> Backend developer with three years of experience skilled in Python, for Backend development, API, and data manipulation. I am also knowledgeable in frontend development, having worked on website layouts, responsive design, and API interactions using HTML/CSS, and JavaScript.
+> Backend developer with three years of experience skilled in Python, for Backend development, API, and data manipulation. I am also knowledgeable in frontend development, having worked on website layouts, responsive design, and API interactions using HTML/CSS, and JavaScript.<br>
 > Seeking challenging opportunities to contribute technical skills and creativity.
 
 ## <p align="center">💻 Tech Stack</p> 
