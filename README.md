@@ -12,9 +12,8 @@
 
 
 ## <p align="center">About Me</p> 
-> - I am a backend Developer with three years of experience, having worked in backend development, API integration, and web scraping.<br>
-> - I am also knowledgeable in front-end development, having worked on website layouts, responsive design, and API interactions.<br>
-> - Seeking challenging opportunities to contribute technical skills and creativity.
+> Backend developer with three years of experience skilled in Python, for Backend development, API, and data manipulation. I am also knowledgeable in frontend development, having worked on website layouts, responsive design, and API interactions using HTML/CSS, and JavaScript.
+> Seeking challenging opportunities to contribute technical skills and creativity.
 
 ## <p align="center">💻 Tech Stack</p> 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
