@@ -33,6 +33,7 @@ Seeking challenging opportunities to contribute technical skills and creativity.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garridot&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Top Languages Stats">
 </p>
+
 ## <p align="center">🏆 GitHub Trophies</p> 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Garridot&theme=onedark&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Profile Trophy">
