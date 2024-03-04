@@ -11,7 +11,7 @@
 </p>
 
 ## <p align="center">About Me</p> 
-> Backend developer with three years of experience in Backend development, API development, data manipulation, and web scraping with Python. I am also knowledgeable in frontend development, having worked on website layouts, responsive design, and API interactions using JavaScript.<br>
+> Backend developer with three years of experience in Backend development, API development, data manipulation, and web scraping with Python. | I am also knowledgeable in frontend development, having worked on website layouts, responsive design, and API interactions using JavaScript.<br>
 Seeking challenging opportunities to contribute technical skills and creativity. 
 
 
