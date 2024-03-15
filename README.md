@@ -24,17 +24,7 @@ Seeking challenging opportunities to contribute technical skills and creativity.
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ## <p align="center">📊 GitHub Stats</p> 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Garridot&theme=city_light&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Profile Trophy">
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Garridot&theme=city_light&hide_border=false" alt="GitHub Streak Stats">
-</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garridot&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Top Languages Stats">
-</p>
-
-## <p align="center">🏆 GitHub Trophies</p> 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Garridot&theme=onedark&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Profile Trophy">
 </p>
