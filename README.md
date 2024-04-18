@@ -23,8 +23,4 @@ Seeking challenging opportunities to contribute technical skills and creativity.
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-## <p align="center">📊 GitHub Stats</p> 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garridot&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Top Languages Stats">
-</p>
