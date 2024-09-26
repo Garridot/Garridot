@@ -11,9 +11,11 @@
 </p>
 
 ## <p align="center">About Me</p> 
-> Backend developer with three years of experience in Backend development, API development, data manipulation, and web scraping with Python. | I am also knowledgeable in frontend development, having worked on website layouts, responsive design, and API interactions using JavaScript.<br>
-Seeking challenging opportunities to contribute technical skills and creativity. 
-
+> Hi there, I'm Tomas Garrido, a Python backend developer with experience in web services and APIs using Django Rest, Flask, and MySQL databases and proficiency in front-end development.
+<be>
+> My expertise spans from creating data extraction applications, and e-commerce platforms to building robust REST APIs and integrating external applications using the Django and Flask frameworks. Additionally, I have achieved solid skills in frontend development with JavaScript, mastering the creation of dynamic web pages.
+> <be>
+I am eagerly seeking new challenges, excited about collaborating within a team, and advancing my skills while embracing cutting-edge technologies!
 
 ## <p align="center">💻 Tech Stack</p> 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
