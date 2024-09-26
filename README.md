@@ -1,4 +1,4 @@
- I'm Tomas Garrido, a Python backend developer with experience in web services and APIs using Django Rest, Flask, and MySQL databases and proficiency in front-end development.
+## I'm Tomas Garrido, a Python backend developer with experience in web services and APIs using Django Rest, Flask, and MySQL databases and proficiency in front-end development.
 
 ## <p align="center">💻 Tech Stack</p> 
 
